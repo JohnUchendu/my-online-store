@@ -31,7 +31,7 @@ export default function Navbar() {
         {/* Logo + Store Name */}
         <Link href="/" className="flex items-center space-x-2">
           <Image src="/logo.png" alt="Logo" width={32} height={32} />
-          <span className="font-bold text-xl">My Online Store</span>
+          <span className="font-bold text-xl">Nej Ogar</span>
         </Link>
 
         {/* Desktop Menu */}
